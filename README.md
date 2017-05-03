@@ -50,7 +50,7 @@ vue역시 signin, siginout, loadMessage등등 firebase를 가져오는 함수를
 2. render vue components
 3. bind form elements to firebase Object
 
-3번에 해당하는 함수명이 `irebaseForVueChat.js`의 `getUIelements`입니다.
+3번에 해당하는 함수명이 `firebaseForVueChat.js`의 `getUIelements`입니다.
 
 ## Build Setup
 
