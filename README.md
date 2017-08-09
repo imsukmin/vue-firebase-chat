@@ -1,3 +1,5 @@
+Example site : [vuechattingapp.firebaseapp.com](!vuechattingapp.firebaseapp.com)
+
 # vue-firebase-chat
 
 > chat app used vue.js and firebase
