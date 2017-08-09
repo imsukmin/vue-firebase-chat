@@ -1,4 +1,4 @@
-Example site : [vuechattingapp.firebaseapp.com](!vuechattingapp.firebaseapp.com)
+Example site : [vuechattingapp.firebaseapp.com](http://vuechattingapp.firebaseapp.com)
 
 # vue-firebase-chat
 
